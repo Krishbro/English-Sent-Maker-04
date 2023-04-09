@@ -5,7 +5,7 @@ const sentences = [
   { english: 'I accept that challenge.', sinhala: '04. මම ඒ අභියෝගය භාර ගන්නවා.' },
   { english: 'Tell me about your children.', sinhala: '05. ඔබේ දරුවන් ගැන මට කියන්න.' },
   { english: 'This is a bottle of water.', sinhala: '06. මේක වතුර බෝතලයක්.' },
-  { english: 'Why are the lights off? ', sinhala: '07. ඇයි ඔයා ලයිට් එක ඔෆ් කලේ?' },
+  { english: 'Why are the lights off?', sinhala: '07. ඇයි ඔයා ලයිට් එක ඔෆ් කලේ?' },
   { english: 'I decided to run away with her.', sinhala: '08. මම ඇය සමඟ පලා යාමට තීරණය කලා.' },
   { english: 'The ball is floating in the sea.', sinhala: '09. බෝලේ මුහුදේ පාවෙමින් තියෙනවා.' },
   { english: 'you can call me any time you want.', sinhala: '10. ඔබට අවශ්‍යය ඕන වෙලාවක මට කතා කරන්න පුලුවන්.' }
